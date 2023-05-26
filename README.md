@@ -1,0 +1,2 @@
+# harningt
+JSON parser/encoder for Lua Parses JSON using LPEG for speed and flexibility. Depending on parser/encoder options, va…
